@@ -1,0 +1,13 @@
+{
+  "projectId": "72470363",
+  "functions": {
+    "admin": {
+      "hasChanged": false,
+      "hash": "5efbc1ae191646173cec7b22a4980f7c3858e804d332aa4b87064891c40996fe"
+    },
+    "submit": {
+      "hasChanged": false,
+      "hash": "af5df3f9c389fd1e9b48af1c4b7e2ab1aa54b9cb9b9cedb14a450633c83e09df"
+    }
+  }
+}
